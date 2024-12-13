@@ -3,8 +3,7 @@ title: My experience
 layout: default
 ---
 
-[My LinkedIN](https://www.linkedin.com/in/ria-cheruvu-54348a173){: .btn .btn-blue }
-
+### Experience
 **2018 - Present**  
 *AI SW Architect and Generative AI Evangelist*  
 Intel  
@@ -33,9 +32,18 @@ Harvard University
 
 ### Certifications and Awards
 
+**2024**
+*Lead Implementer for ISO 42001, issued by PECB*
+*Google Summer of Code Mentor*
+*Intel Security Cryptography Academy Level One: Course in Cryptography*
+*Days of Code, Women Who Code*
+*Introduction to Human-Centered Design*
+
 **2023**  
 *AI Developers to Watch 2023*  
 Featured on the “AI Developers to Watch in 2023” list by cnvrg.io!  
+
+*Intel Technical Lead*  
 
 **2020**  
 *IBM Quantum Challenge*
