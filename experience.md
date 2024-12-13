@@ -1,4 +1,7 @@
-### My experience
+---
+title: My experience
+layout: default
+---
 
 [My LinkedIN](https://www.linkedin.com/in/ria-cheruvu-54348a173){: .btn .btn-blue }
 
