@@ -33,11 +33,11 @@ Harvard University
 ### Certifications and Awards
 
 **2024**
-*Lead Implementer for ISO 42001, issued by PECB*
-*Google Summer of Code Mentor*
-*Intel Security Cryptography Academy Level One: Course in Cryptography*
-*Days of Code, Women Who Code*
-*Introduction to Human-Centered Design*
+- *Lead Implementer for ISO 42001, issued by PECB*
+- *Google Summer of Code Mentor*
+- *Intel Security Cryptography Academy Level One: Course in Cryptography*
+- *Days of Code, Women Who Code*
+- *Introduction to Human-Centered Design*
 
 **2023**  
 *AI Developers to Watch 2023*  
