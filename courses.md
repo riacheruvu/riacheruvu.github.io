@@ -28,6 +28,9 @@ I’ve had the privilege of teaching a variety of courses covering topics in dat
 - **[AI Research with ELVTR](https://elvtr.com/course/ai-research)**  
   Delve into the cutting-edge world of AI research, exploring methodologies, applications, and the future of AI innovation.
 
+- **[ML Model Deployment – Eduonix](https://www.eduonix.com/ai-machine-learning-advanced-practitioners-edegree)**
+  Taught the ML Model Deployment course as part of the AI-ML for Advanced Practitioners E-Degree, covering best practices for deploying machine learning models in real-world applications.
+
 #### Ethical AI
 - **[Ethical AI with Udacity](https://www.udacity.com/course/ethical-ai--cd1827)**  
   Learn the principles and frameworks of ethical AI to design responsible AI systems that align with societal values.
