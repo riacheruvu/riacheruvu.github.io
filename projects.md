@@ -6,9 +6,18 @@ layout: default
 
 ## Reinforcement Learning and Intuitive Physics
 
-Artificial intuitive physics involves addressing computational models for "intuitive theories" of physics, reverse-engineering the theories, and implementing them in AI algorithms. The goal of the project is to implement intuitive physics engines in a simulated environment using reinforcement learning, enabling agents to interact with their surroundings that can be applied to a real-life robot. The research involves using the Pybullet and OpenAI Gym libraries for physics simulation, in addition to other libraries, and implementing different reinforcement learning algorithms from scratch, such as Proximal Policy Optimization and World Models.
+Artificial intuitive physics explores computational models that simulate human-like physical reasoning. This project aimed to reverse-engineer "intuitive theories" of physics and implement them within AI algorithms. My work during a research collaboration with Intel Labs focused on building intuitive physics engines in simulated environments using reinforcement learning, enabling agents to interact with their surroundings in ways transferrable to real-world robotics. The research leveraged Pybullet and OpenAI Gym for physics simulation, along with other libraries, and included the implementation of reinforcement learning algorithms from scratch—such as Proximal Policy Optimization and World Models.
 
-# Featured Course Projects
+Three deliverables resulted from this project:
+
+1. I authored a report titled Intuitive Physics and Simulation Tools for Active Agents (2020 draft) surveys AI-driven physical reasoning and simulation methods (e.g., FEM, SPH, IPEs) for robotics and scene understanding. Paused due to project reprioritization, with some incomplete sections (e.g., causality hardware), it showcases my interdisciplinary synthesis skills, informing my ongoing AI-driven simulation research. [Link](https://raw.githubusercontent.com/riacheruvu/riacheruvu.github.io/refs/heads/main/'2020 Rough Draft Report - Simulation Tools and Intuitive Physics'.pdf) 
+
+2.	Developed ML engines that can perform “common sense reasoning” inspired by human reasoning at the intersection of computer vision, reinforcement learning (RL), computational neuroscience, and cognitive development. Implemented intuitive physics engines in a simulated environment using RL, enabling agents to interact with their surroundings applied to a real-life robot. Leveraged Pybullet, OpenAI Gym, and other libraries for physics simulation and different RL algorithms from scratch, such as Proximal Policy Optimization and World Models.
+![Snapshot of RL experiments](https://raw.githubusercontent.com/riacheruvu/riacheruvu.github.io/refs/heads/main/rl_image.png)
+
+3. I conducted research on modeling uncertainty in intuitive physics environments for active agents, exploring Bayesian neural networks and their alignment with hardware-level Instruction Set Architecture (ISA) customization. This work led to the identification of design pathways for AI models that effectively integrate physics reasoning with low-level architectural support.
+
+# Featured Academic Projects
 
 **Bayesian Deep Learning:**
 ![Snapshot of aleatoric uncertainty for a computer vision dataset](https://raw.githubusercontent.com/riacheruvu/riacheruvu.github.io/refs/heads/main/aleatoric_uncertainty.png)
