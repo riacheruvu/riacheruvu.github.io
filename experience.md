@@ -4,7 +4,18 @@ layout: default
 ---
 
 ### Experience
-**2018 - Present**  
+
+**2025  - Present** <br/>
+*Senior Trustworthy AI Architect*
+NVIDIA
+
+**2024 - 2025 (6 months)** <br/>
+*Technical Advisor & Lead Engineer (Consultant)* <br/>
+Stealth Startup  
+
+Advisor and primary technical contributor for an AI governance platform automating regulatory compliance workflows. Collaborated with policy experts to translate complex regulatory requirements into technical solutions, and built a functional MVP implementing core governance workflows.
+
+**2018 - 2025**  
 *AI SW Architect and Generative AI Evangelist*  
 Intel  
 
