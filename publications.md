@@ -7,10 +7,10 @@ layout: default
 
 ### AI
 
-**Bringing Adventure Gaming to Life Using Real-Time Generative AI on Your PC**  
-*SIGGRAPH '24: ACM SIGGRAPH 2024 Talks*  
-July 18, 2024  
-[See publication](https://dl.acm.org/doi/10.1145/3641233.3664354)  
+**Chapter: Building Resilient AI Systems at the Edge: Addressing Failure Modes and Safety for Regulatory Compliance**  
+*Elsevier: Advances in Image Processing, Reliability, and Artificial Intelligence: Data Centred-Techniques and Applications in Edge Computing*  
+November 16, 2025
+[See publication](https://shop.elsevier.com/books/advances-in-image-processing-reliability-and-artificial-intelligence/divan/978-0-443-34266-0)  
 
 **Bringing Adventure Gaming to Life Using Real-Time Generative AI on Your PC**  
 *SIGGRAPH '24: ACM SIGGRAPH 2024 Talks*  
