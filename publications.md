@@ -7,6 +7,11 @@ layout: default
 
 ### AI
 
+**Chapter: Human-in/on-the-Loop Design for Human Controllability**  
+*Springer: Handbook of Human-Centered Artificial Intelligence*  
+November 11, 2025  
+[See publication](https://link.springer.com/rwe/10.1007/978-981-97-8440-0_75-1)  
+
 **Chapter: Building Resilient AI Systems at the Edge: Addressing Failure Modes and Safety for Regulatory Compliance**  
 *Elsevier: Advances in Image Processing, Reliability, and Artificial Intelligence: Data Centred-Techniques and Applications in Edge Computing*  
 November 16, 2025
