@@ -14,6 +14,12 @@ I’ve had the privilege of teaching a variety of courses covering topics in dat
 
 - **[Data Storytelling Through Visualizations in Python with Educative](https://www.educative.io/courses/data-storytelling-through-visualizations-in-python)**  
   Learn how to craft compelling narratives using data visualizations in Python, turning complex datasets into actionable insights.
+
+- **[Data-driven Problem Solving for Data Analysts with Pluralsight](https://www.pluralsight.com/courses/data-driven-problem-solving-data-analysts)**  
+  Turn business data into actionable solutions by mastering the end-to-end data analysis workflow—from defining problems and cleaning data to identifying trends and presenting data-backed recommendations to stakeholders using Excel, Python, and Tableau.
+
+- **[Data Science and Machine Learning Interview Handbook with Educative](https://www.educative.io/courses/data-science-and-machine-learning-interview-questions)**  
+  A comprehensive AI-powered interview prep resource covering the core concepts, algorithms, and practical questions spanning data science and machine learning that practitioners need to ace technical interviews.
   
 - **[Advanced Data Wrangling, as part of the Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)**  
   Learn the three phases of data wrangling, as part of a comprehensive program designed to equip aspiring data analysts with essential skills in data wrangling, visualization, and analysis.
@@ -36,6 +42,6 @@ I’ve had the privilege of teaching a variety of courses covering topics in dat
   Learn the principles and frameworks of ethical AI to design responsible AI systems that align with societal values.
 
 - **[Discovering Ethical AI with Udacity](https://www.udacity.com/course/discovering-ethical-AI--cd13462)**  
-  Gain a comprehensive understanding of ethical AI, including its challenges and opportunities, in this beginner-friendly course.
+  Gain a comprehensive understanding of ethical AI, including its challenges and opportunities, in this beginner-friendly course. Recognized by CNET.
 
 ---

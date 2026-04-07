@@ -2,7 +2,7 @@
 layout: default
 title: "A Risk-Informed Qualification Framework for Robotic Remote Shutdown"
 parent: Blogs
-nav_exclude: true
+nav_exclude: false
 has_toc: true
 ---
 
