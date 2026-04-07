@@ -66,11 +66,16 @@ Three deliverables resulted from this project:
 
 # Featured Academic Projects
 ---
-**Risk-informed remote robotic shutdown for nuclear environments (Stanford, 2026)**
-![Snapshot of demo for robotic shutdown project](https://raw.githubusercontent.com/riacheruvu/riacheruvu.github.io/refs/heads/main/robotic_shutdown.png)
-This project presents a **risk-informed qualification framework** for autonomous robotic remote shutdown in high-radiation nuclear environments. The system models the task as a **POMDP** with a 7D augmented state space encoding communication lag and radiation-induced sensor noise. A **linearized interval-arithmetic reachability analysis** generates a formal safety certificate, while GPU-accelerated **Defensive Mixture Importance Sampling** bounds failure probability. 
 
-**Results:** Certified **99.2% ± 0.2% mission success rate** over 10,000 rollouts.
+**Risk-Informed Qualification Framework for Robotic Remote Shutdown (Stanford AA228V, 2026)**
+
+![Snapshot of demo for robotic shutdown project](https://raw.githubusercontent.com/riacheruvu/riacheruvu.github.io/refs/heads/main/robotic_shutdown.png)
+
+This project presents a **risk-informed qualification framework** for autonomous robotic remote shutdown in high-radiation nuclear environments, replacing subjective ALARA safety margins with formally verified reachability envelopes. The task is modeled as a **POMDP** with a 7D augmented state space that explicitly encodes two-step communication lag and radiation-induced "salt-and-pepper" sensor noise. A **linearized interval-arithmetic reachability analysis** generates a formal safety certificate σ\*, while GPU-accelerated **Defensive Mixture Importance Sampling** (70/30 nominal/biased split, σₚ = 2.2σ) bounds the residual failure probability where Naive Monte Carlo proves structurally unstable.
+
+**Results:** Certified **95.4% ± 0.5% strict mission success rate** over 10,000 rollouts, with catastrophic failure probability bounded at 0.0463 ± 0.0025.
+
+[Read the full write-up →](./robotic_shutdown_blog.html)
 
 ---
 
