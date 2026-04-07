@@ -1,12 +1,14 @@
 ---
 layout: default
-title: "Risk-Informed Qualification Framework for Robotic Remote Shutdown"
+title: "A Risk-Informed Qualification Framework for Robotic Remote Shutdown"
+parent: Blogs
 nav_exclude: true
+has_toc: true
 ---
 
 # A Risk-Informed Qualification Framework for Robotic Remote Shutdown
 
-**Ria Cheruvu** · Stanford University — AA228V · April 2026
+**Ria Cheruvu** · Stanford University — AA228V · March 2026
 
 ---
 
@@ -114,12 +116,12 @@ Future work will integrate **Adaptive Stress Testing (AST)** to formulate falsif
 ---
 ## Resources
 
-**Full Paper:** [A Risk-Informed Qualification Framework for Robotic Remote Shutdown (PDF)](https://github.com/riacheruvu/riacheruvu.github.io/blob/main/Risk_Informed_Robotic_Remote_Shutdown.pdf)
+**Full Paper:** [A Risk-Informed Qualification Framework for Robotic Remote Shutdown (PDF)](https://github.com/riacheruvu/riacheruvu.github.io/blob/main/assets/content/Risk_Informed_Robotic_Remote_Shutdown.pdf)
 
 **Validation Dashboard Animation:**
 
 <video width="100%" height="auto" controls autoplay loop muted>
-  <source src="/assets/shutdown_animation.mp4" type="video/mp4">
+  <source src="/assets/visual/shutdown_animation.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
