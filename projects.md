@@ -4,6 +4,27 @@ layout: default
 ---
 # A selection of technical engineering projects
 
+## VibeCheckBench (Self, 2026)
+
+Personal AI behavioral benchmark — does your AI actually fit how you work?
+
+![VibeCheckBench social preview](https://raw.githubusercontent.com/riacheruvu/VibeCheckBench/main/assets/vibecheckbench-social-preview.png)
+
+Most AI benchmarks rank models on capability. VibeCheckBench tests something more personal: whether a model's *behavior* matches your preferences across factuality, pushback, initiative, and anti-sycophancy. Import your conversation history, mine it for behavioral evidence, generate public-safe eval cases, and score model setups against your preferences — then get reviewable suggestions for what to change.
+
+**Stack:** Node.js · Promptfoo · OpenAI Codex · Ollama · Claude Code
+
+  * Preference-to-eval pipeline via `preferences.yaml`
+
+  * Multi-provider support: OpenAI, Anthropic, Ollama, llama.cpp
+
+  * Live skill chart dashboard with suggested setup changes
+
+  * OpenAI Codex integration, Claude Code integration, and slash-command workflow
+
+  [GitHub →](https://github.com/riacheruvu/VibeCheckBench)  ·  [Medium article →](https://riacheruvu.medium.com/)  ·  [Live demo →](https://riacheruvu.github.io/VibeCheckBench/)
+
+
 ## Bringing Adventure Gaming to Life with Real-Time GenAI (Intel, 2024)
 *Originally presented at ACM SIGGRAPH 2024*
 [![Demo screen example of project](https://img.youtube.com/vi/6MxMCTWWEYQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=6MxMCTWWEYQ)
@@ -66,27 +87,6 @@ Three deliverables resulted from this project:
 
 # Featured Academic Projects
 ---
-
-**VibeCheckBench (2026)**
-
-Personal AI behavioral benchmark — does your AI actually fit how you work?
-
-![VibeCheckBench social preview](https://raw.githubusercontent.com/riacheruvu/VibeCheckBench/main/assets/vibecheckbench-social-preview.png)
-
-Most AI benchmarks rank models on capability. VibeCheckBench tests something more personal: whether a model's *behavior* matches your preferences across factuality, pushback, initiative, and anti-sycophancy. Import your conversation history, mine it for behavioral evidence, generate public-safe eval cases, and score model setups against your preferences — then get reviewable suggestions for what to change.
-
-**Stack:** Node.js · Promptfoo · OpenAI Codex · Ollama · Claude Code
-
-  * Preference-to-eval pipeline via `preferences.yaml`
-
-  * Multi-provider support: OpenAI, Anthropic, Ollama, llama.cpp
-
-  * Live skill chart dashboard with suggested setup changes
-
-  * OpenAI Codex integration, Claude Code integration, and slash-command workflow
-
-  [GitHub →](https://github.com/riacheruvu/VibeCheckBench)  ·  [Medium article →](https://riacheruvu.medium.com/)  ·  [Live demo →](https://riacheruvu.github.io/VibeCheckBench/)
-
 
 **Risk-Informed Qualification Framework for Robotic Remote Shutdown (Stanford AA228V, 2026)**
 
