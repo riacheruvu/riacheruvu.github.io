@@ -67,23 +67,11 @@ Three deliverables resulted from this project:
 # Featured Academic Projects
 ---
 
-**Risk-Informed Qualification Framework for Robotic Remote Shutdown (Stanford AA228V, 2026)**
-
-![Snapshot of demo for robotic shutdown project](https://raw.githubusercontent.com/riacheruvu/riacheruvu.github.io/refs/heads/main/assets/visual/robotic_shutdown.png)
-
-This project presents a **risk-informed qualification framework** for autonomous robotic remote shutdown in high-radiation nuclear environments, replacing subjective ALARA safety margins with formally verified reachability envelopes. The task is modeled as a **POMDP** with a 7D augmented state space that explicitly encodes two-step communication lag and radiation-induced "salt-and-pepper" sensor noise. A **linearized interval-arithmetic reachability analysis** generates a formal safety certificate σ\*, while GPU-accelerated **Defensive Mixture Importance Sampling** (70/30 nominal/biased split, σₚ = 2.2σ) bounds the residual failure probability where Naive Monte Carlo proves structurally unstable.
-
-**Results:** Certified **95.4% ± 0.5% strict mission success rate** over 10,000 rollouts, with catastrophic failure probability bounded at 0.0463 ± 0.0025.
-
-[Read the full write-up →](./robotic_shutdown_blog.html)
-
----
- 
-**VibeCheckBench 2025**
+**VibeCheckBench (2026)**
 
 Personal AI behavioral benchmark — does your AI actually fit how you work?
 
-![VibeCheckBench preview](https://raw.githubusercontent.com/riacheruvu/VibeCheckBench/main/assets/vibecheckbench-social-preview.png)
+![VibeCheckBench social preview](https://raw.githubusercontent.com/riacheruvu/VibeCheckBench/main/assets/vibecheckbench-social-preview.png)
 
 Most AI benchmarks rank models on capability. VibeCheckBench tests something more personal: whether a model's *behavior* matches your preferences across factuality, pushback, initiative, and anti-sycophancy. Import your conversation history, mine it for behavioral evidence, generate public-safe eval cases, and score model setups against your preferences — then get reviewable suggestions for what to change.
 
@@ -99,6 +87,19 @@ Most AI benchmarks rank models on capability. VibeCheckBench tests something mor
 
   [GitHub →](https://github.com/riacheruvu/VibeCheckBench)  ·  [Medium article →](https://riacheruvu.medium.com/)  ·  [Live demo →](https://riacheruvu.github.io/VibeCheckBench/)
 
+
+**Risk-Informed Qualification Framework for Robotic Remote Shutdown (Stanford AA228V, 2026)**
+
+![Snapshot of demo for robotic shutdown project](https://raw.githubusercontent.com/riacheruvu/riacheruvu.github.io/refs/heads/main/assets/visual/robotic_shutdown.png)
+
+This project presents a **risk-informed qualification framework** for autonomous robotic remote shutdown in high-radiation nuclear environments, replacing subjective ALARA safety margins with formally verified reachability envelopes. The task is modeled as a **POMDP** with a 7D augmented state space that explicitly encodes two-step communication lag and radiation-induced "salt-and-pepper" sensor noise. A **linearized interval-arithmetic reachability analysis** generates a formal safety certificate σ\*, while GPU-accelerated **Defensive Mixture Importance Sampling** (70/30 nominal/biased split, σₚ = 2.2σ) bounds the residual failure probability where Naive Monte Carlo proves structurally unstable.
+
+**Results:** Certified **95.4% ± 0.5% strict mission success rate** over 10,000 rollouts, with catastrophic failure probability bounded at 0.0463 ± 0.0025.
+
+[Read the full write-up →](./robotic_shutdown_blog.html)
+
+---
+ 
 **Bayesian Deep Learning (Harvard, 2019):**
 
 ![Snapshot of aleatoric uncertainty for a computer vision dataset](https://raw.githubusercontent.com/riacheruvu/riacheruvu.github.io/refs/heads/main/assets/visual/aleatoric_uncertainty.png)
