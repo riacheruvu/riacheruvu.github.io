@@ -78,6 +78,26 @@ This project presents a **risk-informed qualification framework** for autonomous
 [Read the full write-up →](./robotic_shutdown_blog.html)
 
 ---
+ 
+**VibeCheckBench 2025**
+
+Personal AI behavioral benchmark — does your AI actually fit how you work?
+
+![VibeCheckBench preview](https://raw.githubusercontent.com/riacheruvu/VibeCheckBench/main/assets/vibecheckbench-social-preview.png)
+
+Most AI benchmarks rank models on capability. VibeCheckBench tests something more personal: whether a model's *behavior* matches your preferences across factuality, pushback, initiative, and anti-sycophancy. Import your conversation history, mine it for behavioral evidence, generate public-safe eval cases, and score model setups against your preferences — then get reviewable suggestions for what to change.
+
+**Stack:** Node.js · Promptfoo · OpenAI Codex · Ollama · Claude Code
+
+  * Preference-to-eval pipeline via `preferences.yaml`
+
+  * Multi-provider support: OpenAI, Anthropic, Ollama, llama.cpp
+
+  * Live skill chart dashboard with suggested setup changes
+
+  * OpenAI Codex integration, Claude Code integration, and slash-command workflow
+
+  [GitHub →](https://github.com/riacheruvu/VibeCheckBench)  ·  [Medium article →](https://riacheruvu.medium.com/)  ·  [Live demo →](https://riacheruvu.github.io/VibeCheckBench/)
 
 **Bayesian Deep Learning (Harvard, 2019):**
 
